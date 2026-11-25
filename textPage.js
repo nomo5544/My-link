@@ -852,7 +852,6 @@ function setupTimerProgress() {
     pop.setAttribute('aria-label', 'Тривалість смуги прогресу');
     const label = document.createElement('label');
     label.htmlFor = 'timer-limit-input';
-    label.textContent = 'Тривалість смуги, хвилин';
     const row = document.createElement('div');
     row.className = 'timer-limit-row';
     const input = document.createElement('input');
