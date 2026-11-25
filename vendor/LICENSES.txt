@@ -1,0 +1,7 @@
+Сторонні бібліотеки, що лежать у цій папці (працюють локально, без інтернету):
+
+fflate 0.8.2 (vendor/fflate.min.js) — розпакування .docx
+  MIT License, Copyright (c) 2023 Arjun Barrett — https://github.com/101arrowz/fflate
+
+PDF.js 3.11.174 (vendor/pdf.min.js, vendor/pdf.worker.min.js) — читання PDF
+  Apache License 2.0, Copyright Mozilla Foundation — https://github.com/mozilla/pdf.js
