@@ -865,7 +865,7 @@ function setupTimerProgress() {
     save.type = 'button';
     save.id = 'timer-limit-save';
     save.className = 'timer-limit-save';
-    save.textContent = 'OK';
+    save.textContent = 'так';
     row.append(input, save);
     const presets = document.createElement('div');
     presets.className = 'timer-limit-presets';
