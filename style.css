@@ -646,7 +646,7 @@ body.scrolled-down .add-tab-btn {
     margin-top: 10px;
 }
 .timer-limit-preset {
-    min-width: 30px;
+    min-width: 28px;
     height: 30px;
     padding: 0 4px;
     font-size: 15px;
