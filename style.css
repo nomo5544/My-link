@@ -594,7 +594,7 @@ body.scrolled-down .add-tab-btn {
     top: 48px;
     left: 112px;
     z-index: 3500;
-    width: min(60px, calc(100vw - 124px));
+    width: min(60px, calc(100vw - 40px));
     box-sizing: border-box;
     padding: 12px;
     background: #fff;
