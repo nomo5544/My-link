@@ -770,7 +770,7 @@ function updateProgress(elapsedMs) {
 
 const PLANNED_MIN = 0.5;   // найменша тривалість, хв
 const PLANNED_MAX = 1440;  // найбільша тривалість, хв (доба)
-const PLANNED_PRESETS = [40, 50, 60];
+const PLANNED_PRESETS = [30, 40, 50, 60];
 
 function formatMinutes(m) {
     return (Number.isInteger(m) ? String(m) : String(+m.toFixed(1))) + ' хв';
