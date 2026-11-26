@@ -571,7 +571,7 @@ body.scrolled-down .add-tab-btn {
     height: 26px;
     padding: 0 10px;
     font-family: inherit;
-    font-size: 18px;
+    font-size: 16px;
     color: #5d2e0a;
     background: #fff;
     border: 1px solid #8b4513;
@@ -631,8 +631,9 @@ body.scrolled-down .add-tab-btn {
 }
 .timer-limit-save {
     height: 40px;
-    padding: 0 16px;
+    padding: 0 10px;
     font-weight: bold;
+    font-size: 16px;
     color: #fff;
     background: #2ecc71;
     border: none;
@@ -649,7 +650,7 @@ body.scrolled-down .add-tab-btn {
     min-width: 28px;
     height: 30px;
     padding: 0 4px;
-    font-size: 15px;
+    font-size: 16px;
     color: #5d2e0a;
     background: #fff;
     border: 1px solid #8b4513;
