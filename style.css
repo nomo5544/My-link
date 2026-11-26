@@ -366,6 +366,7 @@ body {
     border-radius: 5px; 
     border: 1px solid #8b4513; 
     font-size: 19px; 
+    color: white
     cursor: pointer; 
 }
 .cancel-btn { 
