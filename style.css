@@ -452,11 +452,12 @@ body {
 }
 
 /* Закладки й кнопка «+» зникають при прокручуванні вниз і з'являються на самому початку сторінки */
-.tabs-container, .add-tab-btn {
+.tabs-container, .add-tab-btn, .timer-container {
     transition: transform 0.25s ease, opacity 0.25s ease, visibility 0s linear 0s;
 }
 body.scrolled-down .tabs-container,
-body.scrolled-down .add-tab-btn {
+body.scrolled-down .add-tab-btn, 
+body.scrolled-down .timer-container {
     transform: translateX(-110%);
     opacity: 0;
     visibility: hidden;
