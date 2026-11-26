@@ -365,8 +365,7 @@ body {
     padding: 10px 20px; 
     border-radius: 5px; 
     border: none; 
-    font-weight: bold; 
-    font-size: 18px; 
+    font-size: 20px; 
     cursor: pointer; 
 }
 .cancel-btn { 
@@ -374,8 +373,7 @@ body {
     padding: 10px 20px; 
     border-radius: 5px; 
     border: none; 
-    font-weight: bold; 
-    font-size: 18px; 
+    font-size: 20px; 
     cursor: pointer; 
 }
 /* Відображення фонової картинки, коли немає вкладок */
