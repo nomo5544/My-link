@@ -361,7 +361,7 @@ body {
     transform: none;
 }
 .save-btn { 
-    background: #109011; /* Колір кнопки */
+    background: #6eaa5e; /* Колір кнопки */
     padding: 10px 20px; 
     border-radius: 5px; 
     border: 1px solid #8b4513; 
@@ -633,7 +633,7 @@ body.scrolled-down .timer-container {
     height: 40px;
     padding: 0 10px;
     font-size: 22px;
-    background: #109011;
+    background: #6eaa5e;
     border: 1px solid #8b4513;
     border-radius: 8px;
     cursor: pointer;
