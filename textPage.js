@@ -778,7 +778,7 @@ function formatMinutes(m) {
 
 function refreshLimitLabel() {
     const btn = $('timer-limit-btn');
-    if (btn) btn.textContent = 'ЛІМІТ: ' + formatMinutes(plannedMinutes());
+    if (btn) btn.textContent = 'сесія: ' + formatMinutes(plannedMinutes());
 }
 
 // Зберігає тривалість смуги (у хвилинах). Повертає false, якщо значення некоректне.
