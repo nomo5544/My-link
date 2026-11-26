@@ -608,7 +608,7 @@ body.scrolled-down .add-tab-btn {
 }
 .timer-limit-pop label {
     display: block;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
     font-size: 14px;
     color: #5d2e0a;
 }
