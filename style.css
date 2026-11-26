@@ -468,7 +468,7 @@ body.scrolled-down .add-tab-btn {
 
 /* Трохи нижче, щоб смуга прогресу вгорі не торкалася таймера */
 .timer-container {
-    top: 40px;
+    top: 48px;
 }
 .timer-display {
     cursor: pointer; /* клік по цифрах — змінити тривалість смуги прогресу */
@@ -591,7 +591,7 @@ body.scrolled-down .add-tab-btn {
 
 .timer-limit-pop {
     position: fixed;
-    top: 14px;
+    top: 48px;
     left: 112px;
     z-index: 3500;
     width: min(156px, calc(100vw - 40px));
