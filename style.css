@@ -195,7 +195,7 @@ body {
     flex: 1; /* Займає всю ширину */
     padding: 10px;
     font-size: 18px;
-    border: 2px solid #d2b48c;
+    border: 1px solid #0000FF;
     border-radius: 8px;
 }
 
