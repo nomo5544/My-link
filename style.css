@@ -570,7 +570,7 @@ body.scrolled-down .add-tab-btn {
     width: min(92px);
     z-index: 3000;
     height: 26px;
-    padding: 0 10px;
+    padding: 0 8px;
     font-family: inherit;
     font-size: 16px;
     color: #5d2e0a;
