@@ -361,7 +361,7 @@ body {
     transform: none;
 }
 .save-btn { 
-    background: #2ecc71; /* Колір кнопки */
+    background: #109011; /* Колір кнопки */
     padding: 10px 20px; 
     border-radius: 5px; 
     border: 1px solid #8b4513; 
@@ -369,7 +369,7 @@ body {
     cursor: pointer; 
 }
 .cancel-btn { 
-    background: #f0f0f0; /* Колір кнопки */
+    background: #ffffff; /* Колір кнопки */
     padding: 10px 20px; 
     border-radius: 5px; 
     border: 1px solid #8b4513;
