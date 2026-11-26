@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bible-app-v1.0169';
+const CACHE_NAME = 'bible-app-v1.0170';
 
 // Без цих файлів застосунок не працює офлайн — якщо один не завантажиться, установка скасовується
 const CORE_ASSETS = [
