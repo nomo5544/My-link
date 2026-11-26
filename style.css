@@ -633,7 +633,6 @@ body.scrolled-down .add-tab-btn {
 .timer-limit-save {
     height: 40px;
     padding: 0 10px;
-    font-weight: bold;
     font-size: 22px;
     color: #fff;
     background: #2ecc71;
