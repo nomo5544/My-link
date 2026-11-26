@@ -614,7 +614,7 @@ body.scrolled-down .add-tab-btn {
 }
 .timer-limit-row {
     display: flex;
-    gap: 0px;
+    gap: 8px;
 }
 .timer-limit-row input {
     flex: 1;
