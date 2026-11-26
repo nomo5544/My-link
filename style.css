@@ -32,7 +32,7 @@ body {
 /* 4. Кнопка "+" */
 .add-tab-btn {
     position: fixed;
-    top: 90px;
+    top: 126px;
     left: 0px;
     z-index: 3000;
     background: #fff;
@@ -273,7 +273,7 @@ body {
 /* --- ТАЙМЕР (Фінальна фіксація без "стрибків") --- */
 .timer-container {
     position: fixed;
-    top: 8px;
+    top: 36px;
     left: 5px;
     z-index: 3000;
     background: #fff;
@@ -566,7 +566,7 @@ body.scrolled-down .add-tab-btn {
 .timer-limit-btn {
     position: fixed;
     top: 14px;
-    left: 110px;
+    left: 5px;
     z-index: 3000;
     height: 26px;
     padding: 0 10px;
@@ -591,7 +591,7 @@ body.scrolled-down .add-tab-btn {
 
 .timer-limit-pop {
     position: fixed;
-    top: 48px;
+    top: 14px;
     left: 112px;
     z-index: 3500;
     width: min(156px, calc(100vw - 40px));
