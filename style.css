@@ -592,7 +592,7 @@ body.scrolled-down .add-tab-btn {
 
 .timer-limit-pop {
     position: fixed;
-    top: 44px;
+    top: 14px;
     left: 112px;
     z-index: 3500;
     width: min(156px, calc(100vw - 40px));
