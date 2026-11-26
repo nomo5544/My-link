@@ -241,7 +241,7 @@ body {
     border: 1px solid #8b4513;
     padding: 12px;
     border-radius: 8px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
     max-width: 500px;
     max-height: 2000px;
     font-size: 20px;
