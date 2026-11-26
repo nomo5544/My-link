@@ -608,13 +608,13 @@ body.scrolled-down .add-tab-btn {
 }
 .timer-limit-pop label {
     display: block;
-    margin-bottom: 8px;
+    margin-bottom: 0px;
     font-size: 14px;
     color: #5d2e0a;
 }
 .timer-limit-row {
     display: flex;
-    gap: 8px;
+    gap: 0px;
 }
 .timer-limit-row input {
     flex: 1;
