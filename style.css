@@ -364,7 +364,7 @@ body {
     background: #2ecc71; /* Колір кнопки */
     padding: 10px 20px; 
     border-radius: 5px; 
-    border: none; 
+    border: 1px solid #8b4513; 
     font-size: 20px; 
     cursor: pointer; 
 }
@@ -372,7 +372,7 @@ body {
     background: #f0f0f0; /* Колір кнопки */
     padding: 10px 20px; 
     border-radius: 5px; 
-    border: none; 
+    border: 1px solid #8b4513;
     font-size: 20px; 
     cursor: pointer; 
 }
