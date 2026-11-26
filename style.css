@@ -637,7 +637,7 @@ body.scrolled-down .add-tab-btn {
     font-size: 22px;
     color: #fff;
     background: #2ecc71;
-    border: none;
+    border: 1px solid #d2b48c;
     border-radius: 8px;
     cursor: pointer;
 }
