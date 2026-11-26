@@ -207,7 +207,7 @@ body {
 
 /* --- Внутрішнє поле вводу --- */
 #inputArea {
-    border: 2px solid #d2b48c;
+    border: 1px solid #0000FF;
     padding: 20px;
     flex-grow: 1;            /* Поле займає весь доступний простір у вікні */
     min-height: 300px;
