@@ -565,7 +565,7 @@ body.scrolled-down .add-tab-btn {
 /* ===== Час для смуги прогресу: кнопка «Ліміт» і панель налаштування ===== */
 .timer-limit-btn {
     position: fixed;
-    top: 8px;
+    top: 14px;
     left: 110px;
     z-index: 3000;
     height: 26px;
