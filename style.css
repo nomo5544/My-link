@@ -273,7 +273,7 @@ body {
 /* --- ТАЙМЕР (Фінальна фіксація без "стрибків") --- */
 .timer-container {
     position: fixed;
-    top: 36px;
+    top: 8px;
     left: 5px;
     z-index: 3000;
     background: #fff;
@@ -468,7 +468,7 @@ body.scrolled-down .add-tab-btn {
 
 /* Трохи нижче, щоб смуга прогресу вгорі не торкалася таймера */
 .timer-container {
-    top: 14px;
+    top: 40px;
 }
 .timer-display {
     cursor: pointer; /* клік по цифрах — змінити тривалість смуги прогресу */
